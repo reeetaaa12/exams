@@ -10,9 +10,6 @@ def razmn():
         p = pow((1 - pow(2.7, 2) * (1 - pow(x, (-1)))), (-2))
     elif b == "2":
         p = 1
-
-
-
     print(p)
 
 def razm_gib():
